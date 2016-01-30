@@ -1,0 +1,84 @@
+
+
+/* Custom CSS */
+
+
+.navbar-default {
+	
+	    background-color: rgb(45,62,79);
+}
+
+header h1 {
+	
+	float:left;
+	color:white;
+	font-family: 'Lato', sans-serif;
+	font-weight:bold;
+	margin-left:100px;
+	margin-top:25px;
+	font-size: 25px;
+}
+
+.menu li {
+	
+	float:right;
+	color:white;
+	display: block;
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+	font-weight:bold;
+	font-size:12px;
+	margin-left:25px;
+	margin-top:30px;
+}
+
+
+.hero{
+	height:600px;
+	background-color:rgb(40,187,156);
+	
+}
+
+.hero h1 {
+	
+	color:white;
+	font-size:50px;
+	font-weight:900;
+	font-family: 'Lato', sans-serif;
+	padding-top:20px;
+	padding-bottom:20px;
+
+}
+
+.hero h6 {
+	
+	color:white;
+	font-size:20px;
+	font-weight:normal;
+	font-family: 'Lato', sans-serif;
+	padding-top:20px;
+	padding-bottom:20px;
+
+}
+
+.me{
+	padding-top:90px;
+	text-align:center;
+
+}
+
+.fa{
+	color:white;
+	font-size: 20px;
+}
+
+.col-3{
+	width:32%;
+	float:right;
+	
+
+}
+
+
+
+
